@@ -2,6 +2,10 @@
 
 A professional resume built using HTML to demonstrate fundamental HTML knowledge.
 
+## Live Demo
+
+🔗 [View Live Resume](https://shailesh-kolap-html-resume.vercel.app/)
+
 ## About
 
 This is a simple, HTML resume showcasing:
@@ -23,7 +27,9 @@ This is a simple, HTML resume showcasing:
 
 ## How to View
 
-Open `index.html` in any web browser.
+**Online:** Visit [https://shailesh-kolap-html-resume.vercel.app/](https://shailesh-kolap-html-resume.vercel.app/)
+
+**Locally:** Open `index.html` in any web browser.
 
 ## Author
 
